@@ -15,7 +15,7 @@ namespace Adventure
         const int SWP_NOSIZE = 0x0001;
 
 
-j;asldkfjs;ldfjas;dlfjasl;dfj
+
         [DllImport("kernel32.dll", ExactSpelling = true)]
         private static extern IntPtr GetConsoleWindow();
 
